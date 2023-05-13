@@ -1,0 +1,56 @@
+/* General */
+.pointer {
+  cursor: pointer;
+}
+
+.Avatar {
+  padding: 25px;
+}
+
+.option-selector {
+  padding: 25px;
+}
+
+.option-item {
+  padding: 4px;
+}
+
+select {
+  padding: 4px;
+}
+/* Avatar */
+section.avatar-wrapper {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.avtar_btn {
+    display: block;
+    width: 24.3%;
+    cursor: pointer;
+    background-color: #ecf0f1;
+    float: left;
+    margin: 0 6px 6px 0;
+}
+/* .avtar_btn:first-child{
+    margin-left: 0;
+} */
+.tab-content {
+    margin-top: 10px;
+}
+
+/* ul.avatar_tab {
+    border: none;
+    border-bottom: none;
+    background-color: #ecf0f1;
+    height: 50px;
+}
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 21px;
+    border: none;
+    border-radius: 0;
+    padding: 13px 17px;
+}
+.active-element {
+    border: 2px solid #3498db;
+} */
